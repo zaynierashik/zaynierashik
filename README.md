@@ -1,16 +1,36 @@
-## Hi there 👋
+<div>
+    <img align="center" src="https://github.com/zaynierashik/zaynierashik/blob/main/goku-black.mp4" width="100%" />
+</div>
+<br>
 
-<!--
-**zaynierashik/zaynierashik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<div>
+    <h5><b><samp>SOCIAL LINKS</samp></b><h5>
+    <p align="center">
+        <a href="https://www.linkedin.com/in/rashikchauhan">
+            <img src="./icons/linkedin.png" alt="linkedin" />
+        </a>
+        <a href="https://github.com/zaynierashik">
+            <img src="./icons/github.png" alt="github" />
+        </a>
+    </p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div>
+    <h5><b><samp>SKILLS</samp></b><h5>
+    <h6><b><samp>PROGRAMMING LANGUAGES</samp></b><h6>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=py,django,php,mysql,sqlite,c" />
+        </a>
+    <h6><b><samp>WEB TECHNOLOGIES</samp></b><h6>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap" />
+        </a>
+    <h6><b><samp>TOOLS AND DESIGN</samp></b><h6>
+        <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=git,github,figma,xd" />
+        </a>
+</div>

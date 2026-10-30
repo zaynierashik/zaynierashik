@@ -1,18 +1,18 @@
-<div>
-    <img align="center" src="https://github.com/zaynierashik/zaynierashik/blob/main/goku-black.mp4" width="100%" />
+<div align="center">
+    <img src="./assets/goku-black.gif" width="100%" alt="Goku Black" />
 </div>
 <br>
 
 ---
 
 <div>
-    <h5><b><samp>SOCIAL LINKS</samp></b><h5>
+    <h5><b><samp>SOCIAL LINKS</samp></b></h5>
     <p align="center">
         <a href="https://www.linkedin.com/in/rashikchauhan">
-            <img src="./icons/linkedin.png" alt="linkedin" />
+            <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" width="35" height="35" />
         </a>
         <a href="https://github.com/zaynierashik">
-            <img src="./icons/github.png" alt="github" />
+            <img src="https://skillicons.dev/icons?i=github" alt="github" width="35" height="35" />
         </a>
     </p>
 </div>
@@ -20,17 +20,39 @@
 ---
 
 <div>
-    <h5><b><samp>SKILLS</samp></b><h5>
-    <h6><b><samp>PROGRAMMING LANGUAGES</samp></b><h6>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=py,django,php,mysql,sqlite,c" />
-        </a>
-    <h6><b><samp>WEB TECHNOLOGIES</samp></b><h6>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap" />
-        </a>
-    <h6><b><samp>TOOLS AND DESIGN</samp></b><h6>
-        <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=git,github,figma,xd" />
-        </a>
+    <h5><b><samp>SKILLS</samp></b></h5>
+    <h5><b><samp>PROGRAMMING LANGUAGES</samp></b></h5>
+    <a>
+        <img src="https://skillicons.dev/icons?i=py,django,php,mysql,sqlite,c&perline=6"
+             width="240" height="40" alt="Programming Languages" />
+    </a>
+    <h5><b><samp>WEB TECHNOLOGIES</samp></b></h5>
+    <a>
+        <img src="https://skillicons.dev/icons?i=html,css,js,tailwindcss,bootstrap&perline=5"
+             width="200" height="40" alt="Web Technologies" />
+    </a>
+    <h5><b><samp>TOOLS AND DESIGN</samp></b></h5>
+    <a>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,xd&perline=5"
+             width="200" height="40" alt="Tools and Design" />
+    </a>
+</div>
+
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/zaynierashik/zaynierashik/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/zaynierashik/zaynierashik/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub Contribution Snake Animation"
+      src="https://raw.githubusercontent.com/zaynierashik/zaynierashik/output/github-contribution-grid-snake.svg"
+      width="100%"
+    />
+  </picture>
 </div>
